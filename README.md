@@ -44,14 +44,14 @@ Nossa missão é combater a carga excessiva de tarefas repetitivas através de a
 
 ## 🛠️ Como Utilizar?
 
-1.  **Acesse o Portal:** [eclipselunar.netlify.app](https://eclipselunar.netlify.app)
+1.  **Acesse o Portal:** (NOT EXIST)
 2.  **Login:** Utilize suas credenciais da plataforma (**RA e Senha**).
 3.  **Execução:** O script identificará as atividades pendentes e iniciará o processo.
 4.  **Conclusão:** Aguarde a confirmação de sucesso do sistema.
 
 ### 🔗 Links Oficiais
-* **🌐 Site:** [eclipselunar.netlify.app](https://eclipselunar.netlify.app)
-* **💬 Discord:** [Comunidade Oficial](https://discord.com/invite/zRXgHF9hrQ)
+* **🌐 Site:** NOT EXIST
+* **💬 Discord:** NOT EXIST
 
 ---
 
